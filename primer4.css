@@ -80,13 +80,13 @@ ul.spisok li a:hover
 			background:url(images/footer.gif) repeat-x;
 			padding-top:30px;
 			text-align:center;
-			position:relative;
+			
 			clear:both;
 			}
 #main_block	
 			{
 			width:950px;
-			height:820px;
+			height:870px;
 			margin:auto;
 			padding:0px;
 			position:relative;
@@ -158,9 +158,10 @@ ul.spisok li a:hover
 .box
 			{
 			width:199px;
-			height:164px;
+			height:auto;
 			float:left;
-			padding:20px 12px 20px 12px;
+			padding:20px 12px 0px 12px;
+			margin-border-bottom: 20px;
 			text-align:center;
 			}
 			
